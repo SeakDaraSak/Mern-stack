@@ -1,4 +1,4 @@
-# TypeScript MERN AMAZONA
+# MERN FULL STACK Using Mongodb/Meactjs/Expressjs/Nodejs/Tailwind
 
 # lessons
 
