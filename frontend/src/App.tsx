@@ -4,6 +4,18 @@ function App() {
   return (
     <>
       <div>
+        <header className="flex justify-between p-5 bg-slate-800 text-white">
+          <div>
+            <a href="">Amazon</a>
+          </div>
+          <nav className="space-x-4">
+            <a href="/cart">Cart</a>
+            <a href="/signin">SignIn</a>
+          </nav>
+        </header>
+      </div>
+
+      <div>
         <ul>
           {sampleProduct.map((product) => (
             <li
