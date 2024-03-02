@@ -9,5 +9,5 @@
 5. cd your project name and install node using command line npm install
 6. UI design using Tailwind css
 7. Tailwind command line npm install -D tailwindcss postcss autoprefixer and npx tailwindcss init -p
-8. in tailwind.config.js content: ["./index.html","./src/**/*.{js,ts,jsx,tsx}",],
-9. in index.css @tailwind base;@tailwind components;@tailwind utilities;
+8. The tailwind.config.js use content: ["./index.html","./src/**/*.{js,ts,jsx,tsx}",],
+9. The index.css use @tailwind base;@tailwind components;@tailwind utilities;
