@@ -1,4 +1,4 @@
-# MERN FULL STACK Using Mongodb/Meactjs/Expressjs/Nodejs/Tailwind
+# MERN FULL STACK Using Mongodb/Reactjs/Expressjs/Nodejs/Tailwind
 
 # lessons
 
